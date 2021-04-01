@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "mini projet 2ème année inginierie ISAMM",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index"
+  },
+  "author": "Chayma & Manel",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "file-extension": "^4.0.5",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.2",
+    "mongoose-unique-validator": "^2.0.3",
+    "multer": "^1.4.2",
+    "node": "^15.7.0",
+    "nodemon": "^2.0.7"
+  }
+}
